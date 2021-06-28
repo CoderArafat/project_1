@@ -1,0 +1,463 @@
+@media (max-width:1250px){
+    /* HEADER PART  */
+    .navbar-nav li a {
+        padding: 10px 10px;
+        font-size: 15px;
+    }
+    .headerSearch span {
+        font-size: 20px;
+        width: 30px;
+    }
+    /* BANNER PART  */
+    .banner {
+        height: 100vh;
+    }
+    .socialIcon {
+        left: 145px;
+        bottom: -69px;
+    }
+    /* ABOUT PART  */
+    .aboutImg img {
+        width: 75%;
+    }
+    .aboutImgText {
+        right: 75px;
+        bottom: 20px;
+        height: 150px;
+        width: 150px;
+    }
+    .aboutImgText h2 {
+        font-size: 40px;
+    }
+    .aboutImgText p {
+        font-size: 11px;
+        font-weight: 700;
+    }
+    /* APPLY PART  */
+    .finixContent h2 {
+        font-size: 29px;
+    }
+    /* COMPANY VALU PART  */
+
+    /* TEAM PART */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:992px){
+    /* BANNER PART  */
+    .bannerContent h2 {
+        font-size: 51px;
+        width: 474px;
+    }
+    .bannerContent p {
+        width: 405px;
+    }
+    .socialIcon {
+        left: 135px;
+        bottom: -24px;
+    }
+    /* CLIENT LOGO  */
+    .clientLogo img{
+        width: 100%;
+    }
+    /* ABOUT PART  */
+    .finixContent h5 {
+        padding-bottom: 0px;
+    }
+    .finixContent h2 {
+        font-size: 25px;
+        padding-bottom: 5px;
+    }
+    .finixContent p {
+        font-size: 14px;
+        padding-bottom: 0px;
+    }
+    .finixContent strong {
+        font-size: 13px;
+        font-weight: 600;
+    }
+    .btn-primary {
+        padding: 12px 25px;
+        font-size: 16px;
+    }
+    .aboutImgText {
+        height: 125px;
+        width: 125px;
+    }
+    .aboutImgText h2 {
+        font-size: 30px;
+    }
+    .aboutImgText p {
+        font-size: 9px;
+    }
+    .finixContent ul li {
+        padding: 0px 0px;
+    }
+    /* CHOOES PART  */
+    .chooseButton {
+        right: 100px;
+        bottom: 40px;
+    }
+    .choosesItems {
+        padding: 8px;
+    }
+    .choosesItemsIcon i {
+        width: 60px;
+        height: 60px;
+        line-height: 60px;
+        font-size: 17px;
+    }
+    .choosesItems:hover .choosesItemsIcon i {
+        line-height: 60px;
+        width: 60px;
+        height: 60px;
+    }
+    .choosesItems h3 {
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+        font-size: 20px;
+    }
+    .choosesItems p {
+        font-size: 12px;
+    }
+    .choosesItems::before {
+        top: -100px;
+    }
+    /* COMPANY VALU PART  */
+
+    /* SARVICES PART */
+    /* TEAM PART */
+    .teamItemContent h3 {
+        margin: 8px 0px;
+        font-size: 16px;
+    }
+    .teamItemContent p {
+        font-size: 10px;
+    }
+    .teamItemSocial ul li a {
+        width: 24px;
+        height: 24px;
+        line-height: 24px;
+        border-radius: 50%;
+        font-size: 12px;
+    }
+
+    /* SUCCESS PART  */
+    .successItem a {
+        font-size: 16px;
+    }
+    .successItem span {
+        font-size: 16px;
+    }
+    /* Footer PART  */
+    .footerOne p {
+        font-size: 16px;
+    }
+    .footerOne ul li span {
+        font-size: 12px;
+        margin-right: 16px;
+    }
+    .footerOne ul li a {
+        padding: 0px 3px;
+        font-size: 12px;
+    }
+    .footerTwing h3 {
+        padding-bottom: 21px;
+        font-size: 16px;
+    }
+    .footerTwing ul li a {
+        font-size: 14px;
+    }
+    .footerContactText p {
+        font-size: 12px;
+    }
+    .footerContactText span {
+        margin-right: 15px;
+        font-size: 14px;
+    }
+    .footerContactText a {
+        font-size: 11px;
+    }
+    .footerContactText a:hover {
+        letter-spacing: 0px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:768px){
+    /* BANNER PART  */
+    .bannerContent h2 {
+        font-size: 38px;
+        width: 232px;
+    }
+    .bannerContent p {
+        font-size: 17px;
+        width: 240px;
+    }
+    .socialIcon {
+        left: -51px;
+        bottom: -73px;
+    }
+    .btn-primary {
+        padding: 12px 30px;
+        font-size: 15px;
+    }
+    .socialIcon ul li span {
+        font-size: 15px; 
+        margin-right: 50px;
+    }
+    .socialIcon ul li span::after {
+        right: -44px;
+        top: 11px;
+        width: 36px;
+    }
+    .socialIcon ul li a {
+        font-size: 17px;
+        padding: 0px 5px;
+    }
+    /* CLIENT LOGO  */
+    .clientLogo img{
+        margin-bottom: 30px;
+        /* width: 100%; */
+    }
+    /* ABOUT PART  */
+    .aboutImgText {
+        right: 40px;
+        bottom: 0px;
+        height: 100px;
+        width: 100px;
+    }
+    .aboutImgText h2 {
+        font-size: 20px;
+    }
+    .aboutImgText p {
+        font-size: 8px;
+    }
+    .finixContent h2 {
+        font-size: 20px;
+        padding-bottom: 0px;
+    }
+    .finixContent p {
+        font-size: 13px;
+    }
+    /* CHOOES PART  */
+    .chooseButton {
+        right: 160px;
+        bottom: 60px;
+    }
+    .choosesItems::before {
+        top: -72px;
+    }
+    .md_margin{
+        margin-top: 40px;
+    }
+    /* APPLY PART  */
+    .applyleftContent {
+        margin-bottom: 35px;
+    }
+    .applyleftContent h2 {
+        font-size: 20px;
+    }
+    .applyleftContentItem ul li strong {
+        font-size: 20px;
+        margin-bottom: 8px;
+    }
+    .applyleftContentItem ul li p {
+        font-size: 13px;
+    }
+    .applyleftContentItem ul li::before {
+        width: 30px;
+        height: 30px;
+        line-height: 27px;
+    }
+    .applyleftContentItem ul::before {
+        width: 1px;
+        height: calc(100% - 55px);
+        left: -5px;
+    }
+    /* CELL TO ACTION  */
+    .callLeftText h2 {
+        font-size: 19px;
+    }
+    .callIcon i {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 25px;
+    }
+    .callNumber a {
+        font-size: 20px;
+    }
+    .callRightText {
+        padding-top: 40px;
+        padding-left: 0;
+    }
+    /* COMPANY VALU PART  */
+    .companyLeftContent h2 {
+        font-size: 20px;
+    }
+    .companyValusText h3 {
+        font-size: 18px;
+    }
+    .companyValusText p {
+        font-size: 12px;
+    }
+    .companyValusIcon i {
+        font-size: 25px;
+        margin-right: 15px;
+        width: 27px;
+    }
+
+    /* SARVICES PART */
+
+    /* TESTAMORNIYAL PART */
+    .testamorniyelLeft p {
+        font-size: 17px;
+        color: #111;
+    }
+    .testamorniyelLeft h3 {
+        font-size: 18px;
+        padding-bottom: 0px;
+    }
+    /* FOOTER PART  */
+    .footerContactText a:hover {
+        letter-spacing: 1.3px;
+    }
+    .footerSml p {
+        font-size: 20px;
+        color: #606060;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:576px){
+    
+    /* CLIENT LOGO */
+    .clientLogo{
+        text-align: center;
+    }
+    .clientLogo img {
+        width: 50%;
+    }
+    /* ABOUT PART  */
+    .aboutImgText {
+        right: 73px;
+        bottom: 0px;
+        height: 125px;
+        width: 125px;
+    }
+    .aboutImgText h2 {
+        font-size: 40px;
+    }
+    .aboutImg {
+        margin-bottom: 50px;
+    }
+    /* CHOOSE PART  */
+    .choosesItems::before {
+        top: -80px;
+    }
+    .chooseButton {
+        right: 80px;
+        bottom: 0px;
+    }
+    /* APPLY PART  */
+    .applyleftContent {
+        padding-left: 20px;
+    }
+    .applyRightContent {
+        padding: 26px !important;
+    }
+    /* CELL TO ACTION PART  */
+   
+    .callContent {
+        padding: 30px;
+    }
+    .callLeftText {
+        padding: 0px;
+    }
+    .callRightText {
+        padding-top: 15px;
+        padding-left: 0;
+        padding-bottom: 0;
+    }
+    /* COMPANY VALU PART  */
+
+
+
+    /* SARVICES PART */
+
+    /* TEAM PART */
+    .teamItemSocial ul li a {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        border-radius: 50%;
+        font-size: 18px;
+    }
+    .teamItemContent h3 {
+        font-size: 21px;
+    }
+    .teamItemContent p {
+        font-size: 14px;
+    }
+    /* SUCCESS PART  */
+    .successItem {
+        margin-bottom: 25px;
+    }
+    /* FOOTER PART  */
+    .footerSml p {
+        font-size: 17px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
